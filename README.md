@@ -4,7 +4,7 @@
 
 ### Screenshots
 
-![screenshots](Screenshot/vim-screenshot.png)
+![screenshots](screenshots/vim-screenshot.png)
 
 ### Wallpaper
 
